@@ -411,6 +411,8 @@
   padding: 60px 102px 60px 80px;
   background-color: #1f1f1f;
   font-family: "Helvetica Neau", Arial, sans-serif;
+  min-width: 1100px;
+  max-width: 1600px;
 }
 
 .footer__columns {
